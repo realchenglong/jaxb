@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SMSDELIVERREQeeeeeeeee s2="s2">
+    <REQHEADER>
+        <AUTHCODE>AAA</AUTHCODE>
+        <REQNO>1</REQNO>
+        <SYSID>AAA123</SYSID>
+    </REQHEADER>
+    <SMSBODYSsss>
+        <SMSBODY1111>
+            <CONTEXT>测试1</CONTEXT>
+            <DESTADDR>15888</DESTADDR>
+            <SOURCEADDR>888</SOURCEADDR>
+        </SMSBODY1111>
+        <SMSBODY1111>
+            <CONTEXT>测试2</CONTEXT>
+            <DESTADDR>159898</DESTADDR>
+            <SOURCEADDR>989898</SOURCEADDR>
+        </SMSBODY1111>
+    </SMSBODYSsss>
+</SMSDELIVERREQeeeeeeeee>
